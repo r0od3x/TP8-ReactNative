@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "MonApp",
-    "slug": "MonApp",
+    "name": "TP8 Todo",
+    "slug": "tp8-react-native-todo",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
